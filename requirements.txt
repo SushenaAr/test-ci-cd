@@ -1,3 +1,4 @@
 uvicorn~=0.46.0
 fastapi
 pydantic
+pydantic-settings
